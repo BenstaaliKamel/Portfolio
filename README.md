@@ -1,6 +1,5 @@
 # Personal Portfolio Website in React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <img width="1266" alt="Screen Shot" src="src/assets/img/kamelfolio.png">
 
@@ -10,7 +9,7 @@ Built using:
 - CSS framework: React-bootstrap
 - CSS animations library: Animate.css
 
-In the /personal-portfolio, you can run:
+In the /Portfolio, you can run:
 
 ### `npm start`
 
